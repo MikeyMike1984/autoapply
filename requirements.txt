@@ -1,0 +1,13 @@
+pymongo==4.11.2
+reportlab==4.3.1
+httpx==0.28.1
+pydantic==2.10.6  # Using an older version that has pre-built wheels
+python-dotenv==1.0.1
+asyncio==3.4.3
+PyMuPDF==1.25.3  # For PDF analysis with fitz
+python-docx==1.1.2  # For Word document manipulation
+dnspython==2.7.0  # Required by pymongo
+chardet==5.2.0  # Character encoding detection
+idna==3.10  # Internationalized Domain Names
+sniffio==1.3.1  # Used by httpx
+anyio==4.8.0  # Asynchronous networking

@@ -1,0 +1,105 @@
+Job Application Automation & Resume Customization System Overview
+After analyzing the provided conversations and repository code, I can outline the application's purpose, architecture, and agreed-upon strategies for development.
+Application Purpose & Goals
+This system aims to:
+
+Extract job listings from multiple job boards (LinkedIn, Indeed, ZipRecruiter, Glassdoor, Google)
+Store job data in MongoDB (shifted from initial Google Sheets approach)
+Analyze job descriptions to extract requirements and match them with user's professional experience
+Generate custom-tailored resumes that maintain pixel-perfect formatting consistency
+Automatically apply to jobs using platform-specific application flows
+Operate with minimal user oversight through high reliability and trust
+
+System Architecture
+A component-based architecture has been agreed upon:
+Copy┌────────────────────┐     ┌────────────────────┐     ┌────────────────────┐
+│  Scraper Module    │     │  Analytics Module  │     │ Application Module │
+├────────────────────┤     ├────────────────────┤     ├────────────────────┤
+│- Platform Adapters │     │- Resume Generator  │     │- Browser Automation│
+│- Rate Limiting     │     │- Skill Extractor   │     │- Form Filling      │
+│- Proxy Management  │     │- Text Analysis     │     │- Session Management│
+└────────────────────┘     └────────────────────┘     └────────────────────┘
+          │                          │                          │
+          └──────────────────────────┼──────────────────────────┘
+                                     │
+                          ┌────────────────────┐
+                          │  Data Store Module │
+                          ├────────────────────┤
+                          │- MongoDB Interface │
+                          │- Resume Storage    │
+                          │- Job History       │
+                          └────────────────────┘
+Agreed Tools & Strategies
+
+Technology Stack:
+
+Language: Python 3.10+
+Database: MongoDB (replacing Google Sheets for scalability)
+Browser Automation: Playwright (replacing Selenium for better stealth)
+LLM for Resume Generation: Initially using local LLM (ollama with mistral:instruct model)
+PDF Generation: ReportLab for pixel-perfect formatting
+
+
+Resume Generation Approach:
+
+Template-based approach with consistent formatting
+Extract formatting from user's existing resume
+Structured prompts for LLM with few-shot examples
+JSON response format for structured data
+
+
+Development Strategy:
+
+Provider-agnostic LLM interface
+Event-driven communication between components
+Progressive enhancement (phase-by-phase implementation)
+State machine approach for application flows
+
+
+Database Model:
+
+Jobs collection (with platform data, analysis, and status)
+Resumes collection (with files and customization data)
+Professional profiles collection (detailed user experience)
+Application history collection (application process data)
+
+
+Implementation Priorities:
+
+Start with the Scraper Module
+Implement resume generation with local LLM (mistral:instruct)
+Focus on formatting consistency for generated resumes
+Create application automation component
+
+
+
+Key Technical Decisions
+
+LLM Implementation:
+
+Use local models (mistral:instruct) for development
+Abstract LLM interface for potential future migration to cloud providers
+
+
+PDF Generation:
+
+Use ReportLab for pixel-perfect control over layout and formatting
+Parse existing resume format to maintain visual consistency
+
+
+Application Architecture:
+
+RESTful APIs for component communication
+Event-driven design for asynchronous processing
+Circuit breaker pattern for error handling
+
+
+Security & Anti-Detection:
+
+Implement human-like interaction patterns
+Rate limiting with exponential backoff
+Secure credential storage
+
+
+
+The system is designed to be modular, scalable, and maintainable with clear separation of concerns and well-defined interfaces between components.

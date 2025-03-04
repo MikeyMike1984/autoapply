@@ -1,0 +1,3788 @@
+{
+  "document": {
+    "page_count": 3,
+    "page_sizes": [
+      {
+        "page": 1,
+        "width": 612.0,
+        "height": 792.0
+      },
+      {
+        "page": 2,
+        "width": 612.0,
+        "height": 792.0
+      },
+      {
+        "page": 3,
+        "width": 612.0,
+        "height": 792.0
+      }
+    ],
+    "fonts": {
+      "CAAAAA+ArialMT": {
+        "count": 3,
+        "is_common": false
+      },
+      "AAAAAA+Calibri-Bold": {
+        "count": 3,
+        "is_common": false
+      },
+      "BAAAAA+Calibri": {
+        "count": 4,
+        "is_common": false
+      }
+    },
+    "text_blocks": [
+      {
+        "page": 1,
+        "text": "Mike Reeves",
+        "font": "Calibri-Bold",
+        "font_size": 14.0,
+        "color": 0,
+        "position": {
+          "x0": 72.0,
+          "y0": 75.08984375,
+          "x1": 145.01861572265625,
+          "y1": 89.08984375
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 1,
+        "text": "Senior Operations Manager",
+        "font": "Calibri-Bold",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 72.0,
+          "y0": 91.517578125,
+          "x1": 197.56478881835938,
+          "y1": 102.517578125
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 1,
+        "text": "mireeves40@gmail.com | 817-908-9168 | www.linkedin.com/in/michael-reeves-1a2b3c/ | Fort Worth, TX",
+        "font": "Calibri",
+        "font_size": 10.0,
+        "color": 0,
+        "position": {
+          "x0": 72.0,
+          "y0": 104.724609375,
+          "x1": 501.74517822265625,
+          "y1": 114.724609375
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 1,
+        "text": "Professional Summary",
+        "font": "Calibri-Bold",
+        "font_size": 13.0,
+        "color": 0,
+        "position": {
+          "x0": 72.0,
+          "y0": 131.021484375,
+          "x1": 192.3727569580078,
+          "y1": 144.021484375
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 1,
+        "text": "Results-driven",
+        "font": "Calibri-Bold",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 72.0,
+          "y0": 146.44921875,
+          "x1": 137.1508331298828,
+          "y1": 157.44921875
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 1,
+        "text": " Senior Operations Leader with over",
+        "font": "Calibri",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 137.1508331298828,
+          "y0": 146.44921875,
+          "x1": 297.56610107421875,
+          "y1": 157.44921875
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 1,
+        "text": " 10 years of experience",
+        "font": "Calibri-Bold",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 297.56610107421875,
+          "y0": 146.44921875,
+          "x1": 402.2471923828125,
+          "y1": 157.44921875
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 1,
+        "text": " managing",
+        "font": "Calibri",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 402.2471923828125,
+          "y0": 146.44921875,
+          "x1": 448.472412109375,
+          "y1": 157.44921875
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 1,
+        "text": " high-volume",
+        "font": "Calibri-Bold",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 448.472412109375,
+          "y0": 146.44921875,
+          "x1": 508.0254821777344,
+          "y1": 157.44921875
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 1,
+        "text": "manufacturing",
+        "font": "Calibri-Bold",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 72.0,
+          "y0": 159.876953125,
+          "x1": 138.92149353027344,
+          "y1": 170.876953125
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 1,
+        "text": " and",
+        "font": "Calibri",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 138.92149353027344,
+          "y0": 159.876953125,
+          "x1": 158.2196502685547,
+          "y1": 170.876953125
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 1,
+        "text": " distribution operations",
+        "font": "Calibri-Bold",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 158.2196502685547,
+          "y0": 159.876953125,
+          "x1": 265.6227111816406,
+          "y1": 170.876953125
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 1,
+        "text": ". Proven expertise in",
+        "font": "Calibri",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 265.6187744140625,
+          "y0": 159.876953125,
+          "x1": 356.4433288574219,
+          "y1": 170.876953125
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 1,
+        "text": " Lean techniques, team development",
+        "font": "Calibri-Bold",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 356.4433288574219,
+          "y0": 159.876953125,
+          "x1": 524.9337158203125,
+          "y1": 170.876953125
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 1,
+        "text": ",",
+        "font": "Calibri",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 524.9273681640625,
+          "y0": 159.876953125,
+          "x1": 527.6773681640625,
+          "y1": 170.876953125
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 1,
+        "text": "and implementing",
+        "font": "Calibri",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 72.0,
+          "y0": 173.3046875,
+          "x1": 153.45533752441406,
+          "y1": 184.3046875
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 1,
+        "text": " quality and process improvements",
+        "font": "Calibri-Bold",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 153.45533752441406,
+          "y0": 173.3046875,
+          "x1": 313.0318908691406,
+          "y1": 184.3046875
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 1,
+        "text": ". Skilled in driving",
+        "font": "Calibri",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 313.02801513671875,
+          "y0": 173.3046875,
+          "x1": 390.9892883300781,
+          "y1": 184.3046875
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 1,
+        "text": " operational excellence",
+        "font": "Calibri-Bold",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 390.9892883300781,
+          "y0": 173.3046875,
+          "x1": 495.986572265625,
+          "y1": 184.3046875
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 1,
+        "text": ",",
+        "font": "Calibri",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 495.98724365234375,
+          "y0": 173.3046875,
+          "x1": 498.73724365234375,
+          "y1": 184.3046875
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 1,
+        "text": "optimizing fulfillment",
+        "font": "Calibri-Bold",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 72.0,
+          "y0": 186.732421875,
+          "x1": 170.32394409179688,
+          "y1": 197.732421875
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 1,
+        "text": " center performance, and",
+        "font": "Calibri",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 170.32394409179688,
+          "y0": 186.732421875,
+          "x1": 283.754638671875,
+          "y1": 197.732421875
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 1,
+        "text": " building strong cross-functional collaboration",
+        "font": "Calibri-Bold",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 283.754638671875,
+          "y0": 186.732421875,
+          "x1": 492.5283508300781,
+          "y1": 197.732421875
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 1,
+        "text": " to",
+        "font": "Calibri",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 492.5283508300781,
+          "y0": 186.732421875,
+          "x1": 504.37652587890625,
+          "y1": 197.732421875
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 1,
+        "text": "achieve business goals.",
+        "font": "Calibri",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 72.0,
+          "y0": 200.16015625,
+          "x1": 174.89305114746094,
+          "y1": 211.16015625
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 1,
+        "text": "Skills",
+        "font": "Calibri-Bold",
+        "font_size": 13.0,
+        "color": 0,
+        "position": {
+          "x0": 72.0,
+          "y0": 227.45703125,
+          "x1": 99.143310546875,
+          "y1": 240.45703125
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 1,
+        "text": "\u25cf",
+        "font": "ArialMT",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 90.0,
+          "y0": 241.1767578125,
+          "x1": 96.64399719238281,
+          "y1": 253.4658203125
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 1,
+        "text": "Operations Management",
+        "font": "Calibri-Bold",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 108.0,
+          "y0": 242.884765625,
+          "x1": 222.11956787109375,
+          "y1": 253.884765625
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 1,
+        "text": ": Fulfillment center operations, inventory control, staffing lifecycle,",
+        "font": "Calibri",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 222.1133270263672,
+          "y0": 242.884765625,
+          "x1": 517.8507690429688,
+          "y1": 253.884765625
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 1,
+        "text": "KPI-driven performance, multi-site management.",
+        "font": "Calibri",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 108.0,
+          "y0": 256.3125,
+          "x1": 326.240966796875,
+          "y1": 267.3125
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 1,
+        "text": "\u25cf",
+        "font": "ArialMT",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 90.0,
+          "y0": 268.0322265625,
+          "x1": 96.64399719238281,
+          "y1": 280.3212890625
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 1,
+        "text": "Leadership & Development",
+        "font": "Calibri-Bold",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 108.0,
+          "y0": 269.740234375,
+          "x1": 232.0491485595703,
+          "y1": 280.740234375
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 1,
+        "text": ": Team leadership, coaching and mentoring, cross-functional",
+        "font": "Calibri",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 232.0429229736328,
+          "y0": 269.740234375,
+          "x1": 499.9244079589844,
+          "y1": 280.740234375
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 1,
+        "text": "collaboration, leadership bench strength.",
+        "font": "Calibri",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 108.0,
+          "y0": 283.16796875,
+          "x1": 290.9669494628906,
+          "y1": 294.16796875
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 1,
+        "text": "\u25cf",
+        "font": "ArialMT",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 90.0,
+          "y0": 294.8876953125,
+          "x1": 96.64399719238281,
+          "y1": 307.1767578125
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 1,
+        "text": "Process Improvement",
+        "font": "Calibri-Bold",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 108.0,
+          "y0": 296.595703125,
+          "x1": 207.06439208984375,
+          "y1": 307.595703125
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 1,
+        "text": ": Lean Manufacturing, Six Sigma principles, continuous improvement,",
+        "font": "Calibri",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 207.05816650390625,
+          "y0": 296.595703125,
+          "x1": 515.2488403320312,
+          "y1": 307.595703125
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 1,
+        "text": "process change initiatives.",
+        "font": "Calibri",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 108.0,
+          "y0": 310.0234375,
+          "x1": 224.718994140625,
+          "y1": 321.0234375
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 1,
+        "text": "\u25cf",
+        "font": "ArialMT",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 90.0,
+          "y0": 321.7431640625,
+          "x1": 96.64399719238281,
+          "y1": 334.0322265625
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 1,
+        "text": "Technical Skills",
+        "font": "Calibri-Bold",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 108.0,
+          "y0": 323.451171875,
+          "x1": 175.2283935546875,
+          "y1": 334.451171875
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 1,
+        "text": ": SQL, Power BI, VBA, Python, ERP systems integration, advanced Excel,",
+        "font": "Calibri",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 175.22445678710938,
+          "y0": 323.451171875,
+          "x1": 490.5367431640625,
+          "y1": 334.451171875
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 1,
+        "text": "data-driven decision-making.",
+        "font": "Calibri",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 108.0,
+          "y0": 336.87890625,
+          "x1": 237.2946319580078,
+          "y1": 347.87890625
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 1,
+        "text": "\u25cf",
+        "font": "ArialMT",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 90.0,
+          "y0": 348.5986328125,
+          "x1": 96.64399719238281,
+          "y1": 360.8876953125
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 1,
+        "text": "Strategic Execution",
+        "font": "Calibri-Bold",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 108.0,
+          "y0": 350.306640625,
+          "x1": 194.7108612060547,
+          "y1": 361.306640625
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 1,
+        "text": ": Strategic planning, forecasting, budget management, cost optimization,",
+        "font": "Calibri",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 194.7025146484375,
+          "y0": 350.306640625,
+          "x1": 518.0442504882812,
+          "y1": 361.306640625
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 1,
+        "text": "quality and safety compliance.",
+        "font": "Calibri",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 108.0,
+          "y0": 363.734375,
+          "x1": 243.3219757080078,
+          "y1": 374.734375
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 1,
+        "text": "Professional Experience",
+        "font": "Calibri-Bold",
+        "font_size": 13.0,
+        "color": 0,
+        "position": {
+          "x0": 72.0,
+          "y0": 391.03125,
+          "x1": 199.99026489257812,
+          "y1": 404.03125
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 1,
+        "text": "Private Consultant - 1099",
+        "font": "Calibri-Bold",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 72.0,
+          "y0": 406.458984375,
+          "x1": 186.48939514160156,
+          "y1": 417.458984375
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 1,
+        "text": "April 2023 - Present",
+        "font": "Calibri-Bold",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 72.0,
+          "y0": 419.88671875,
+          "x1": 161.6718292236328,
+          "y1": 430.88671875
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 1,
+        "text": "AI Implementation Consultant",
+        "font": "Calibri-Bold",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 108.0,
+          "y0": 440.638671875,
+          "x1": 245.5370330810547,
+          "y1": 451.638671875
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 1,
+        "text": "North American Rescue",
+        "font": "Calibri",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 108.0,
+          "y0": 454.06640625,
+          "x1": 213.15890502929688,
+          "y1": 465.06640625
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 1,
+        "text": "\u25cf",
+        "font": "ArialMT",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 126.0,
+          "y0": 465.7861328125,
+          "x1": 132.6439971923828,
+          "y1": 478.0751953125
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 1,
+        "text": "Developed multiple web apps, automations and workflows",
+        "font": "Calibri-Bold",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 144.0,
+          "y0": 467.494140625,
+          "x1": 412.8987731933594,
+          "y1": 478.494140625
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 1,
+        "text": " using",
+        "font": "Calibri",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 412.8987731933594,
+          "y0": 467.494140625,
+          "x1": 438.9330749511719,
+          "y1": 478.494140625
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 1,
+        "text": " Python",
+        "font": "Calibri-Bold",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 438.9330749511719,
+          "y0": 467.494140625,
+          "x1": 474.1278381347656,
+          "y1": 478.494140625
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 1,
+        "text": " and tmodern",
+        "font": "Calibri",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 474.1278381347656,
+          "y0": 467.494140625,
+          "x1": 535.0164794921875,
+          "y1": 478.494140625
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 1,
+        "text": "web technologies such as Flask to identify, take action against and track counterfeit",
+        "font": "Calibri",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 144.0,
+          "y0": 480.921875,
+          "x1": 513.9031982421875,
+          "y1": 491.921875
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 1,
+        "text": "sellers across multiple E-Commerce platforms (",
+        "font": "Calibri",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 144.0,
+          "y0": 494.349609375,
+          "x1": 353.03863525390625,
+          "y1": 505.349609375
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 1,
+        "text": "Amazon, Ebay, Walmart.com",
+        "font": "Calibri-Bold",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 353.0386962890625,
+          "y0": 494.349609375,
+          "x1": 483.833984375,
+          "y1": 505.349609375
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 1,
+        "text": " etc.)",
+        "font": "Calibri",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 483.833984375,
+          "y0": 494.349609375,
+          "x1": 506.03167724609375,
+          "y1": 505.349609375
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 1,
+        "text": "Example Project",
+        "font": "Calibri-Bold",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 180.0,
+          "y0": 514.7058715820312,
+          "x1": 253.51626586914062,
+          "y1": 525.7058715820312
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 1,
+        "text": ":",
+        "font": "Calibri",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 253.51004028320312,
+          "y0": 514.7058715820312,
+          "x1": 256.4580383300781,
+          "y1": 525.7058715820312
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 1,
+        "text": "Amazon Seller by ASIN Tool",
+        "font": "Calibri",
+        "font_size": 11.0,
+        "color": 255,
+        "position": {
+          "x0": 272.2012939453125,
+          "y0": 514.7058715820312,
+          "x1": 393.55096435546875,
+          "y1": 525.7058715820312
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 1,
+        "text": "Business Process Consultant",
+        "font": "Calibri-Bold",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 108.0,
+          "y0": 536.2828369140625,
+          "x1": 236.10684204101562,
+          "y1": 547.2828369140625
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 1,
+        "text": "Hillwood Properties",
+        "font": "Calibri",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 108.0,
+          "y0": 549.7105102539062,
+          "x1": 196.2074737548828,
+          "y1": 560.7105102539062
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 1,
+        "text": "\u25cf",
+        "font": "ArialMT",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 126.0,
+          "y0": 561.4302978515625,
+          "x1": 132.6439971923828,
+          "y1": 573.7193603515625
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 1,
+        "text": "Led cross-functional teams",
+        "font": "Calibri-Bold",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 144.0,
+          "y0": 563.1383056640625,
+          "x1": 265.6745300292969,
+          "y1": 574.1383056640625
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 1,
+        "text": " to define quarterly demand for consumables, negotiating",
+        "font": "Calibri",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 265.6745300292969,
+          "y0": 563.1383056640625,
+          "x1": 523.0380249023438,
+          "y1": 574.1383056640625
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 1,
+        "text": "vendor pricing and achieving a 54% ($294,840) reduction in yearly expenditures.",
+        "font": "Calibri",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 144.0,
+          "y0": 576.5660400390625,
+          "x1": 501.5594177246094,
+          "y1": 587.5660400390625
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 1,
+        "text": "\u25cf",
+        "font": "ArialMT",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 126.0,
+          "y0": 588.2857055664062,
+          "x1": 132.6439971923828,
+          "y1": 600.5747680664062
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 1,
+        "text": "Redesigned and optimized maintenance workshops",
+        "font": "Calibri-Bold",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 144.0,
+          "y0": 589.9937133789062,
+          "x1": 378.2581787109375,
+          "y1": 600.9937133789062
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 1,
+        "text": " across multiple sites, implementing",
+        "font": "Calibri",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 378.2581787109375,
+          "y0": 589.9937133789062,
+          "x1": 538.2595825195312,
+          "y1": 600.9937133789062
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 1,
+        "text": "5S, visual management techniques, and FIFO processes to increase efficiency and",
+        "font": "Calibri",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 144.0,
+          "y0": 603.4215087890625,
+          "x1": 505.0612487792969,
+          "y1": 614.4215087890625
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 1,
+        "text": "improve space utilization.",
+        "font": "Calibri",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 144.0,
+          "y0": 616.8492431640625,
+          "x1": 258.1318664550781,
+          "y1": 627.8492431640625
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 1,
+        "text": "Aerospace Systems Consultant",
+        "font": "Calibri-Bold",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 108.0,
+          "y0": 638.8218994140625,
+          "x1": 247.01817321777344,
+          "y1": 649.8218994140625
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 1,
+        "text": "GRAero Co.",
+        "font": "Calibri",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 108.0,
+          "y0": 652.2495727539062,
+          "x1": 159.09886169433594,
+          "y1": 663.2495727539062
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 1,
+        "text": "\u25cf",
+        "font": "ArialMT",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 126.0,
+          "y0": 663.9693603515625,
+          "x1": 132.6439971923828,
+          "y1": 676.2584228515625
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 1,
+        "text": "Led cross-functional teams",
+        "font": "Calibri-Bold",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 144.0,
+          "y0": 665.6773681640625,
+          "x1": 265.6745300292969,
+          "y1": 676.6773681640625
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 1,
+        "text": " to optimize communication between engineering and",
+        "font": "Calibri",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 265.6745300292969,
+          "y0": 665.6773681640625,
+          "x1": 507.1490173339844,
+          "y1": 676.6773681640625
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 1,
+        "text": "ground staff, improving operational efficiency and reducing downtime.",
+        "font": "Calibri",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 144.0,
+          "y0": 679.1051025390625,
+          "x1": 457.6968688964844,
+          "y1": 690.1051025390625
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 1,
+        "text": "\u25cf",
+        "font": "ArialMT",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 126.0,
+          "y0": 690.8247680664062,
+          "x1": 132.6439971923828,
+          "y1": 703.1138305664062
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 1,
+        "text": "Drove process improvements",
+        "font": "Calibri-Bold",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 144.0,
+          "y0": 692.5327758789062,
+          "x1": 276.961669921875,
+          "y1": 703.5327758789062
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 1,
+        "text": " utilizing Lean Manufacturing and Six Sigma principles,",
+        "font": "Calibri",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 276.961669921875,
+          "y0": 692.5327758789062,
+          "x1": 518.1865234375,
+          "y1": 703.5327758789062
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 1,
+        "text": "enhancing safety, quality, and reliability metrics.",
+        "font": "Calibri",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 144.0,
+          "y0": 705.9605712890625,
+          "x1": 357.9192199707031,
+          "y1": 716.9605712890625
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 2,
+        "text": "National Warehouse Operations Manager (Laid Off) \u2013 Marley Spoon, Dallas, TX",
+        "font": "Calibri-Bold",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 72.0,
+          "y0": 87.85546875,
+          "x1": 430.6207580566406,
+          "y1": 98.85546875
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 2,
+        "text": "December 2020 \u2013 December 2022",
+        "font": "Calibri-Bold",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 72.0,
+          "y0": 101.283203125,
+          "x1": 225.74609375,
+          "y1": 112.283203125
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 2,
+        "text": "\u25cf",
+        "font": "ArialMT",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 90.0,
+          "y0": 113.0029296875,
+          "x1": 96.64399719238281,
+          "y1": 125.2919921875
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 2,
+        "text": "Directed inventory teams across three U.S. facilities",
+        "font": "Calibri-Bold",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 108.0,
+          "y0": 114.7109375,
+          "x1": 342.1773376464844,
+          "y1": 125.7109375
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 2,
+        "text": " (NJ, TX, CA), overseeing 2 Shift Managers, 5",
+        "font": "Calibri",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 342.1773376464844,
+          "y0": 114.7109375,
+          "x1": 537.5905151367188,
+          "y1": 125.7109375
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 2,
+        "text": "Team Leads, and 40-80 associates at each site.",
+        "font": "Calibri",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 108.0,
+          "y0": 128.138671875,
+          "x1": 313.88494873046875,
+          "y1": 139.138671875
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 2,
+        "text": "\u25cf",
+        "font": "ArialMT",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 90.0,
+          "y0": 139.8583984375,
+          "x1": 96.64399719238281,
+          "y1": 152.1474609375
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 2,
+        "text": "Conducted foundational time studies to",
+        "font": "Calibri",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 108.0,
+          "y0": 141.56640625,
+          "x1": 284.8785400390625,
+          "y1": 152.56640625
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 2,
+        "text": " develop realistic labor metrics",
+        "font": "Calibri-Bold",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 284.8785400390625,
+          "y0": 141.56640625,
+          "x1": 424.5008239746094,
+          "y1": 152.56640625
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 2,
+        "text": ", enabling",
+        "font": "Calibri",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 424.49688720703125,
+          "y0": 141.56640625,
+          "x1": 468.0109558105469,
+          "y1": 152.56640625
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 2,
+        "text": " accurate labor",
+        "font": "Calibri-Bold",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 468.0109558105469,
+          "y0": 141.56640625,
+          "x1": 535.5379028320312,
+          "y1": 152.56640625
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 2,
+        "text": "planning",
+        "font": "Calibri-Bold",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 108.0,
+          "y0": 154.994140625,
+          "x1": 147.63436889648438,
+          "y1": 165.994140625
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 2,
+        "text": " and setting clear team",
+        "font": "Calibri",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 147.63436889648438,
+          "y0": 154.994140625,
+          "x1": 249.60208129882812,
+          "y1": 165.994140625
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 2,
+        "text": " performance expectations",
+        "font": "Calibri-Bold",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 249.60208129882812,
+          "y0": 154.994140625,
+          "x1": 371.61187744140625,
+          "y1": 165.994140625
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 2,
+        "text": ".",
+        "font": "Calibri",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 371.60791015625,
+          "y0": 154.994140625,
+          "x1": 374.3799133300781,
+          "y1": 165.994140625
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 2,
+        "text": "\u25cf",
+        "font": "ArialMT",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 90.0,
+          "y0": 166.7138671875,
+          "x1": 96.64399719238281,
+          "y1": 179.0029296875
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 2,
+        "text": "Partnered with finance and operations leadership",
+        "font": "Calibri-Bold",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 108.0,
+          "y0": 168.421875,
+          "x1": 334.0025329589844,
+          "y1": 179.421875
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 2,
+        "text": " to",
+        "font": "Calibri",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 334.0025329589844,
+          "y0": 168.421875,
+          "x1": 345.8506774902344,
+          "y1": 179.421875
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 2,
+        "text": " establish, staff, and train ICQA",
+        "font": "Calibri-Bold",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 345.8506774902344,
+          "y0": 168.421875,
+          "x1": 485.8009338378906,
+          "y1": 179.421875
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 2,
+        "text": "departments",
+        "font": "Calibri-Bold",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 108.0,
+          "y0": 181.849609375,
+          "x1": 166.94732666015625,
+          "y1": 192.849609375
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 2,
+        "text": ", achieving a",
+        "font": "Calibri",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 166.94338989257812,
+          "y0": 181.849609375,
+          "x1": 221.98849487304688,
+          "y1": 192.849609375
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 2,
+        "text": " 17% improvement in inventory accuracy",
+        "font": "Calibri-Bold",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 221.98849487304688,
+          "y0": 181.849609375,
+          "x1": 407.1468505859375,
+          "y1": 192.849609375
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 2,
+        "text": " across three facilities within",
+        "font": "Calibri",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 407.1468505859375,
+          "y0": 181.849609375,
+          "x1": 533.8546752929688,
+          "y1": 192.849609375
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 2,
+        "text": "two months.",
+        "font": "Calibri",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 108.0,
+          "y0": 195.27734375,
+          "x1": 164.49832153320312,
+          "y1": 206.27734375
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 2,
+        "text": "\u25cf",
+        "font": "ArialMT",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 90.0,
+          "y0": 206.9970703125,
+          "x1": 96.64399719238281,
+          "y1": 219.2861328125
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 2,
+        "text": "Designed and executed enhanced cycle counting strategies",
+        "font": "Calibri-Bold",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 108.0,
+          "y0": 208.705078125,
+          "x1": 374.5796203613281,
+          "y1": 219.705078125
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 2,
+        "text": ", reconciling virtual and physical",
+        "font": "Calibri",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 374.57562255859375,
+          "y0": 208.705078125,
+          "x1": 516.4716186523438,
+          "y1": 219.705078125
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 2,
+        "text": "inventory across warehouses.",
+        "font": "Calibri",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 108.0,
+          "y0": 222.1328125,
+          "x1": 239.62362670898438,
+          "y1": 233.1328125
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 2,
+        "text": "\u25cf",
+        "font": "ArialMT",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 90.0,
+          "y0": 233.8525390625,
+          "x1": 96.64399719238281,
+          "y1": 246.1416015625
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 2,
+        "text": "Championed the implementation of ERP systems",
+        "font": "Calibri-Bold",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 108.0,
+          "y0": 235.560546875,
+          "x1": 329.92962646484375,
+          "y1": 246.560546875
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 2,
+        "text": ", serving as NAV SME for the U.S., optimizing",
+        "font": "Calibri",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 329.92572021484375,
+          "y0": 235.560546875,
+          "x1": 528.016845703125,
+          "y1": 246.560546875
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 2,
+        "text": "processes through system enhancements and training.",
+        "font": "Calibri",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 108.0,
+          "y0": 248.98828125,
+          "x1": 350.7261047363281,
+          "y1": 259.98828125
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 2,
+        "text": "Program Launch Manager (2-year Contract) \u2013 Android Industries, Arlington, TX",
+        "font": "Calibri-Bold",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 72.0,
+          "y0": 275.84375,
+          "x1": 427.99041748046875,
+          "y1": 286.84375
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 2,
+        "text": "June 2018 \u2013 September 2020",
+        "font": "Calibri-Bold",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 72.0,
+          "y0": 289.271484375,
+          "x1": 203.03701782226562,
+          "y1": 300.271484375
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 2,
+        "text": "\u25cf",
+        "font": "ArialMT",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 90.0,
+          "y0": 300.9912109375,
+          "x1": 96.64399719238281,
+          "y1": 313.2802734375
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 2,
+        "text": "Directed a $30M program launch",
+        "font": "Calibri-Bold",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 108.0,
+          "y0": 302.69921875,
+          "x1": 257.599365234375,
+          "y1": 313.69921875
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 2,
+        "text": ", consolidating two facilities and scaling operations from two to",
+        "font": "Calibri",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 257.59100341796875,
+          "y0": 302.69921875,
+          "x1": 538.9002685546875,
+          "y1": 313.69921875
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 2,
+        "text": "eight assembly lines for new vehicle production.",
+        "font": "Calibri",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 108.0,
+          "y0": 316.126953125,
+          "x1": 322.4462585449219,
+          "y1": 327.126953125
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 2,
+        "text": "\u25cf",
+        "font": "ArialMT",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 90.0,
+          "y0": 327.8466796875,
+          "x1": 96.64399719238281,
+          "y1": 340.1357421875
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 2,
+        "text": "Managed the recruitment and onboarding",
+        "font": "Calibri-Bold",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 108.0,
+          "y0": 329.5546875,
+          "x1": 300.1345520019531,
+          "y1": 340.5546875
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 2,
+        "text": " of over 1,000 employees, including 300 contingent",
+        "font": "Calibri",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 300.1345520019531,
+          "y0": 329.5546875,
+          "x1": 527.841552734375,
+          "y1": 340.5546875
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 2,
+        "text": "assemblers, 400 fulltime assemblers, 18 salaried managers, and 25 engineering staff.",
+        "font": "Calibri",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 108.0,
+          "y0": 342.982421875,
+          "x1": 484.23126220703125,
+          "y1": 353.982421875
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 2,
+        "text": "\u25cf",
+        "font": "ArialMT",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 90.0,
+          "y0": 354.7021484375,
+          "x1": 96.64399719238281,
+          "y1": 366.9912109375
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 2,
+        "text": "Oversaw equipment installation",
+        "font": "Calibri-Bold",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 108.0,
+          "y0": 356.41015625,
+          "x1": 253.7777557373047,
+          "y1": 367.41015625
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 2,
+        "text": " and commissioning, ensuring alignment with",
+        "font": "Calibri",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 253.7777557373047,
+          "y0": 356.41015625,
+          "x1": 455.8042907714844,
+          "y1": 367.41015625
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 2,
+        "text": " operational and",
+        "font": "Calibri-Bold",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 455.8042907714844,
+          "y0": 356.41015625,
+          "x1": 530.78271484375,
+          "y1": 367.41015625
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 2,
+        "text": "quality standards",
+        "font": "Calibri-Bold",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 108.0,
+          "y0": 369.837890625,
+          "x1": 186.8007049560547,
+          "y1": 380.837890625
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 2,
+        "text": ".",
+        "font": "Calibri",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 186.7967529296875,
+          "y0": 369.837890625,
+          "x1": 189.56875610351562,
+          "y1": 380.837890625
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 2,
+        "text": "\u25cf",
+        "font": "ArialMT",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 90.0,
+          "y0": 381.5576171875,
+          "x1": 96.64399719238281,
+          "y1": 393.8466796875
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 2,
+        "text": "Developed SQL and Power BI dashboards",
+        "font": "Calibri-Bold",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 108.0,
+          "y0": 383.265625,
+          "x1": 295.1176452636719,
+          "y1": 394.265625
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 2,
+        "text": ", enhancing visibility into",
+        "font": "Calibri",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 295.11370849609375,
+          "y0": 383.265625,
+          "x1": 405.3685302734375,
+          "y1": 394.265625
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 2,
+        "text": " production, quality",
+        "font": "Calibri-Bold",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 405.3685302734375,
+          "y0": 383.265625,
+          "x1": 495.1167907714844,
+          "y1": 394.265625
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 2,
+        "text": ", and",
+        "font": "Calibri",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 495.1090087890625,
+          "y0": 383.265625,
+          "x1": 517.1522216796875,
+          "y1": 394.265625
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 2,
+        "text": "tooling performance.",
+        "font": "Calibri",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 108.0,
+          "y0": 396.693359375,
+          "x1": 202.187255859375,
+          "y1": 407.693359375
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 2,
+        "text": "\u25cf",
+        "font": "ArialMT",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 90.0,
+          "y0": 408.4130859375,
+          "x1": 96.64399719238281,
+          "y1": 420.7021484375
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 2,
+        "text": "Applied Lean and Six Sigma principles",
+        "font": "Calibri-Bold",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 108.0,
+          "y0": 410.12109375,
+          "x1": 279.0913391113281,
+          "y1": 421.12109375
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 2,
+        "text": " to streamline workflows, reducing waste and improving",
+        "font": "Calibri",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 279.0913391113281,
+          "y0": 410.12109375,
+          "x1": 528.7953491210938,
+          "y1": 421.12109375
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 2,
+        "text": "throughput.",
+        "font": "Calibri",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 108.0,
+          "y0": 423.548828125,
+          "x1": 161.6375732421875,
+          "y1": 434.548828125
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 2,
+        "text": "\u25cf",
+        "font": "ArialMT",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 90.0,
+          "y0": 435.2685546875,
+          "x1": 96.64399719238281,
+          "y1": 447.5576171875
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 2,
+        "text": "Delivered weekly updates to senior leadership,",
+        "font": "Calibri",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 108.0,
+          "y0": 436.9765625,
+          "x1": 316.3108215332031,
+          "y1": 447.9765625
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 2,
+        "text": " translating operational insights into strategic",
+        "font": "Calibri-Bold",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 316.3108215332031,
+          "y0": 436.9765625,
+          "x1": 522.1143188476562,
+          "y1": 447.9765625
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 2,
+        "text": "decisions",
+        "font": "Calibri-Bold",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 108.0,
+          "y0": 450.404296875,
+          "x1": 150.01364135742188,
+          "y1": 461.404296875
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 2,
+        "text": ".",
+        "font": "Calibri",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 150.0096893310547,
+          "y0": 450.404296875,
+          "x1": 152.7816925048828,
+          "y1": 461.404296875
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 2,
+        "text": "Amazon Fulfillment Center \u2013 Operations Roles",
+        "font": "Calibri-Bold",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 72.0,
+          "y0": 477.259765625,
+          "x1": 281.573974609375,
+          "y1": 488.259765625
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 2,
+        "text": "November 2015 \u2013 May 2018",
+        "font": "Calibri-Bold",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 72.0,
+          "y0": 490.6875,
+          "x1": 200.06344604492188,
+          "y1": 501.6875
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 2,
+        "text": "Interim Operations Manager (Outbound)",
+        "font": "Calibri-Bold",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 72.0,
+          "y0": 504.115234375,
+          "x1": 257.8975524902344,
+          "y1": 515.115234375
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 2,
+        "text": "\u25cf",
+        "font": "ArialMT",
+        "font_size": 10.0,
+        "color": 0,
+        "position": {
+          "x0": 90.0,
+          "y0": 516.740234375,
+          "x1": 96.04000091552734,
+          "y1": 527.912109375
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 2,
+        "text": "Lead a team of Area Managers",
+        "font": "Calibri-Bold",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 108.0,
+          "y0": 517.54296875,
+          "x1": 246.87655639648438,
+          "y1": 528.54296875
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 2,
+        "text": " (2-3 front-line supervisors) and",
+        "font": "Calibri",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 246.87655639648438,
+          "y0": 517.54296875,
+          "x1": 387.0598449707031,
+          "y1": 528.54296875
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 2,
+        "text": " 100-200 hourly associates",
+        "font": "Calibri-Bold",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 387.0598449707031,
+          "y0": 517.54296875,
+          "x1": 507.1566467285156,
+          "y1": 528.54296875
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 2,
+        "text": " within",
+        "font": "Calibri",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 507.1566467285156,
+          "y0": 517.54296875,
+          "x1": 537.77294921875,
+          "y1": 528.54296875
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 2,
+        "text": "the outbound operation",
+        "font": "Calibri",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 108.0,
+          "y0": 530.970703125,
+          "x1": 215.63497924804688,
+          "y1": 541.970703125
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 2,
+        "text": "\u25cf",
+        "font": "ArialMT",
+        "font_size": 10.0,
+        "color": 0,
+        "position": {
+          "x0": 90.0,
+          "y0": 543.595703125,
+          "x1": 96.04000091552734,
+          "y1": 554.767578125
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 2,
+        "text": "Responsible for driving the overall",
+        "font": "Calibri",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 108.0,
+          "y0": 544.3984375,
+          "x1": 259.6536560058594,
+          "y1": 555.3984375
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 2,
+        "text": " safety, quality",
+        "font": "Calibri-Bold",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 259.6536560058594,
+          "y0": 544.3984375,
+          "x1": 325.9555969238281,
+          "y1": 555.3984375
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 2,
+        "text": " and",
+        "font": "Calibri",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 325.9555969238281,
+          "y0": 544.3984375,
+          "x1": 345.2483825683594,
+          "y1": 555.3984375
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 2,
+        "text": " performance",
+        "font": "Calibri-Bold",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 345.2483825683594,
+          "y0": 544.3984375,
+          "x1": 406.6011047363281,
+          "y1": 555.3984375
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 2,
+        "text": " and",
+        "font": "Calibri",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 406.6011047363281,
+          "y0": 544.3984375,
+          "x1": 425.90234375,
+          "y1": 555.3984375
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 2,
+        "text": " customer experience",
+        "font": "Calibri-Bold",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 425.90234375,
+          "y0": 544.3984375,
+          "x1": 523.6451416015625,
+          "y1": 555.3984375
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 2,
+        "text": " of",
+        "font": "Calibri",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 523.6451416015625,
+          "y0": 544.3984375,
+          "x1": 535.282470703125,
+          "y1": 555.3984375
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 2,
+        "text": "the shift",
+        "font": "Calibri",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 108.0,
+          "y0": 557.826171875,
+          "x1": 145.04800415039062,
+          "y1": 568.826171875
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 2,
+        "text": "\u25cf",
+        "font": "ArialMT",
+        "font_size": 10.0,
+        "color": 0,
+        "position": {
+          "x0": 90.0,
+          "y0": 570.451171875,
+          "x1": 96.04000091552734,
+          "y1": 581.623046875
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 2,
+        "text": "Carried out supervisory responsibilities",
+        "font": "Calibri-Bold",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 108.0,
+          "y0": 571.25390625,
+          "x1": 286.2674255371094,
+          "y1": 582.25390625
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 2,
+        "text": " in accordance with the organization's policies and",
+        "font": "Calibri",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 286.2674255371094,
+          "y0": 571.25390625,
+          "x1": 509.8097839355469,
+          "y1": 582.25390625
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 2,
+        "text": "procedures",
+        "font": "Calibri",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 108.0,
+          "y0": 584.681640625,
+          "x1": 158.35202026367188,
+          "y1": 595.681640625
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 2,
+        "text": "\u25cf",
+        "font": "ArialMT",
+        "font_size": 10.0,
+        "color": 0,
+        "position": {
+          "x0": 90.0,
+          "y0": 597.306640625,
+          "x1": 96.04000091552734,
+          "y1": 608.478515625
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 2,
+        "text": "Accountable for meeting and",
+        "font": "Calibri",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 108.0,
+          "y0": 598.109375,
+          "x1": 237.2273406982422,
+          "y1": 609.109375
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 2,
+        "text": " exceeding operational goals",
+        "font": "Calibri-Bold",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 237.2273406982422,
+          "y0": 598.109375,
+          "x1": 366.5232238769531,
+          "y1": 609.109375
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 2,
+        "text": "\u25cf",
+        "font": "ArialMT",
+        "font_size": 10.0,
+        "color": 0,
+        "position": {
+          "x0": 90.0,
+          "y0": 610.734375,
+          "x1": 96.04000091552734,
+          "y1": 621.90625
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 2,
+        "text": "Strategic planning",
+        "font": "Calibri-Bold",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 108.0,
+          "y0": 611.537109375,
+          "x1": 189.83694458007812,
+          "y1": 622.537109375
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 2,
+        "text": " and forecasting;",
+        "font": "Calibri",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 189.83694458007812,
+          "y0": 611.537109375,
+          "x1": 263.796630859375,
+          "y1": 622.537109375
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 2,
+        "text": " appraised performance",
+        "font": "Calibri-Bold",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 263.796630859375,
+          "y0": 611.537109375,
+          "x1": 372.4602355957031,
+          "y1": 622.537109375
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 2,
+        "text": ";",
+        "font": "Calibri",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 372.4609069824219,
+          "y0": 611.537109375,
+          "x1": 375.4089050292969,
+          "y1": 622.537109375
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 2,
+        "text": " rewarded and disciplined",
+        "font": "Calibri-Bold",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 375.4089050292969,
+          "y0": 611.537109375,
+          "x1": 492.86785888671875,
+          "y1": 622.537109375
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 2,
+        "text": "employees",
+        "font": "Calibri-Bold",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 108.0,
+          "y0": 624.96484375,
+          "x1": 157.45791625976562,
+          "y1": 635.96484375
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 2,
+        "text": "; resolved problems; and",
+        "font": "Calibri",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 157.4539794921875,
+          "y0": 624.96484375,
+          "x1": 267.5578308105469,
+          "y1": 635.96484375
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 2,
+        "text": " addressed staffing needs",
+        "font": "Calibri-Bold",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 267.5578308105469,
+          "y0": 624.96484375,
+          "x1": 383.1084899902344,
+          "y1": 635.96484375
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 2,
+        "text": "\u25cf",
+        "font": "ArialMT",
+        "font_size": 10.0,
+        "color": 0,
+        "position": {
+          "x0": 90.0,
+          "y0": 637.58984375,
+          "x1": 96.04000091552734,
+          "y1": 648.76171875
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 2,
+        "text": "Mentored, trained and developed teammates",
+        "font": "Calibri-Bold",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 108.0,
+          "y0": 638.392578125,
+          "x1": 316.0926208496094,
+          "y1": 649.392578125
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 2,
+        "text": " for career progression and learning.",
+        "font": "Calibri",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 316.0926208496094,
+          "y0": 638.392578125,
+          "x1": 477.7208557128906,
+          "y1": 649.392578125
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 2,
+        "text": "\u25cf",
+        "font": "ArialMT",
+        "font_size": 10.0,
+        "color": 0,
+        "position": {
+          "x0": 90.0,
+          "y0": 651.017578125,
+          "x1": 96.04000091552734,
+          "y1": 662.189453125
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 2,
+        "text": "Developed and",
+        "font": "Calibri",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 108.0,
+          "y0": 651.8203125,
+          "x1": 175.14434814453125,
+          "y1": 662.8203125
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 2,
+        "text": " shared best practices",
+        "font": "Calibri-Bold",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 175.14434814453125,
+          "y0": 651.8203125,
+          "x1": 273.6537780761719,
+          "y1": 662.8203125
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 2,
+        "text": " across the shifts and network",
+        "font": "Calibri",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 273.6537780761719,
+          "y0": 651.8203125,
+          "x1": 406.97015380859375,
+          "y1": 662.8203125
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 3,
+        "text": "Pick/Non-Con Area Manager",
+        "font": "Calibri-Bold",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 72.0,
+          "y0": 74.427734375,
+          "x1": 202.45452880859375,
+          "y1": 85.427734375
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 3,
+        "text": "\u25cf",
+        "font": "ArialMT",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 90.0,
+          "y0": 86.1474609375,
+          "x1": 96.64399719238281,
+          "y1": 98.4365234375
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 3,
+        "text": "Revamped Non-Con department",
+        "font": "Calibri-Bold",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 108.0,
+          "y0": 87.85546875,
+          "x1": 255.82077026367188,
+          "y1": 98.85546875
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 3,
+        "text": " operations, reducing",
+        "font": "Calibri",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 255.82077026367188,
+          "y0": 87.85546875,
+          "x1": 350.2477111816406,
+          "y1": 98.85546875
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 3,
+        "text": " labor costs by $1.1M annually",
+        "font": "Calibri-Bold",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 350.2477111816406,
+          "y0": 87.85546875,
+          "x1": 488.88519287109375,
+          "y1": 98.85546875
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 3,
+        "text": " and",
+        "font": "Calibri",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 488.88519287109375,
+          "y0": 87.85546875,
+          "x1": 508.1778869628906,
+          "y1": 98.85546875
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 3,
+        "text": "improving Non-Con pick rates by 30%",
+        "font": "Calibri-Bold",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 108.0,
+          "y0": 101.283203125,
+          "x1": 277.9332275390625,
+          "y1": 112.283203125
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 3,
+        "text": ".",
+        "font": "Calibri",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 277.92755126953125,
+          "y0": 101.283203125,
+          "x1": 280.6995544433594,
+          "y1": 112.283203125
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 3,
+        "text": "\u25cf",
+        "font": "ArialMT",
+        "font_size": 10.0,
+        "color": 0,
+        "position": {
+          "x0": 90.0,
+          "y0": 113.908203125,
+          "x1": 96.04000091552734,
+          "y1": 125.080078125
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 3,
+        "text": "Transformed the worst-performing pick team into one that consistently ranked #1 in the weekly",
+        "font": "Calibri",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 108.0,
+          "y0": 114.7109375,
+          "x1": 532.642578125,
+          "y1": 125.7109375
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 3,
+        "text": "VCP breakdown",
+        "font": "Calibri",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 108.0,
+          "y0": 128.138671875,
+          "x1": 178.219482421875,
+          "y1": 139.138671875
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 3,
+        "text": "\u25cf",
+        "font": "ArialMT",
+        "font_size": 10.0,
+        "color": 0,
+        "position": {
+          "x0": 90.0,
+          "y0": 140.763671875,
+          "x1": 96.04000091552734,
+          "y1": 151.935546875
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 3,
+        "text": "Prime Week:",
+        "font": "Calibri",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 108.0,
+          "y0": 141.56640625,
+          "x1": 165.02841186523438,
+          "y1": 152.56640625
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 3,
+        "text": " Responsible for all labor planning across Pick/Pack",
+        "font": "Calibri-Bold",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 165.02841186523438,
+          "y0": 141.56640625,
+          "x1": 397.283447265625,
+          "y1": 152.56640625
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 3,
+        "text": " to ensure proper balance and",
+        "font": "Calibri",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 397.283447265625,
+          "y0": 141.56640625,
+          "x1": 531.3912353515625,
+          "y1": 152.56640625
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 3,
+        "text": "capacity to meet ship plan throughout week",
+        "font": "Calibri",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 108.0,
+          "y0": 154.994140625,
+          "x1": 304.61651611328125,
+          "y1": 165.994140625
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 3,
+        "text": "\u25cf",
+        "font": "ArialMT",
+        "font_size": 10.0,
+        "color": 0,
+        "position": {
+          "x0": 90.0,
+          "y0": 167.619140625,
+          "x1": 96.04000091552734,
+          "y1": 178.791015625
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 3,
+        "text": "Developed contingency plans",
+        "font": "Calibri-Bold",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 108.0,
+          "y0": 168.421875,
+          "x1": 241.25709533691406,
+          "y1": 179.421875
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 3,
+        "text": " for tray flow issues, High Sev. tt's and implemented streamlined",
+        "font": "Calibri",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 241.25709533691406,
+          "y0": 168.421875,
+          "x1": 526.3773193359375,
+          "y1": 179.421875
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 3,
+        "text": "process for packing HOV pallets increasing pack rates from 45-uph to 350-uph.",
+        "font": "Calibri",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 108.0,
+          "y0": 181.849609375,
+          "x1": 456.7886962890625,
+          "y1": 192.849609375
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 3,
+        "text": "Flow/AFE Area Manager",
+        "font": "Calibri-Bold",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 72.0,
+          "y0": 208.705078125,
+          "x1": 182.3966522216797,
+          "y1": 219.705078125
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 3,
+        "text": "\u25cf",
+        "font": "ArialMT",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 90.0,
+          "y0": 220.4248046875,
+          "x1": 96.64399719238281,
+          "y1": 232.7138671875
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 3,
+        "text": "Managed outbound pack operations consisting of",
+        "font": "Calibri",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 108.0,
+          "y0": 222.1328125,
+          "x1": 328.61126708984375,
+          "y1": 233.1328125
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 3,
+        "text": " 40-60 associates",
+        "font": "Calibri-Bold",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 328.61126708984375,
+          "y0": 222.1328125,
+          "x1": 405.5599060058594,
+          "y1": 233.1328125
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 3,
+        "text": " off peak and",
+        "font": "Calibri",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 405.5599060058594,
+          "y0": 222.1328125,
+          "x1": 463.7315979003906,
+          "y1": 233.1328125
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 3,
+        "text": " 90-110",
+        "font": "Calibri-Bold",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 463.7315979003906,
+          "y0": 222.1328125,
+          "x1": 497.44415283203125,
+          "y1": 233.1328125
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 3,
+        "text": "associates during peak",
+        "font": "Calibri-Bold",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 108.0,
+          "y0": 235.560546875,
+          "x1": 210.94821166992188,
+          "y1": 246.560546875
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 3,
+        "text": "\u25cf",
+        "font": "ArialMT",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 90.0,
+          "y0": 247.2802734375,
+          "x1": 96.64399719238281,
+          "y1": 259.5693359375
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 3,
+        "text": "Implemented Lean process improvements",
+        "font": "Calibri-Bold",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 108.0,
+          "y0": 248.98828125,
+          "x1": 299.1268615722656,
+          "y1": 259.98828125
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 3,
+        "text": ", eliminating bottlenecks and enhancing value stream",
+        "font": "Calibri",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 299.1229248046875,
+          "y0": 248.98828125,
+          "x1": 536.4447631835938,
+          "y1": 259.98828125
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 3,
+        "text": "efficiency.",
+        "font": "Calibri",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 108.0,
+          "y0": 262.416015625,
+          "x1": 152.5824432373047,
+          "y1": 273.416015625
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 3,
+        "text": "\u25cf",
+        "font": "ArialMT",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 90.0,
+          "y0": 274.1357421875,
+          "x1": 96.64399719238281,
+          "y1": 286.4248046875
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 3,
+        "text": "Partnered with Area Managers",
+        "font": "Calibri-Bold",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 108.0,
+          "y0": 275.84375,
+          "x1": 248.03575134277344,
+          "y1": 286.84375
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 3,
+        "text": " to balance labor allocation and meet volume demands.",
+        "font": "Calibri",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 248.03575134277344,
+          "y0": 275.84375,
+          "x1": 496.0773620605469,
+          "y1": 286.84375
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 3,
+        "text": "Ship Dock/Pack Singles Area Manager",
+        "font": "Calibri-Bold",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 72.0,
+          "y0": 302.69921875,
+          "x1": 243.92735290527344,
+          "y1": 313.69921875
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 3,
+        "text": "\u25cf",
+        "font": "ArialMT",
+        "font_size": 10.0,
+        "color": 0,
+        "position": {
+          "x0": 90.0,
+          "y0": 315.32421875,
+          "x1": 96.04000091552734,
+          "y1": 326.49609375
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 3,
+        "text": "Implemented and",
+        "font": "Calibri",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 108.0,
+          "y0": 316.126953125,
+          "x1": 187.34950256347656,
+          "y1": 327.126953125
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 3,
+        "text": " standardized Arch Angel process",
+        "font": "Calibri-Bold",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 187.34950256347656,
+          "y0": 316.126953125,
+          "x1": 337.1590881347656,
+          "y1": 327.126953125
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 3,
+        "text": " for DFW6 ship dock",
+        "font": "Calibri",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 337.1590881347656,
+          "y0": 316.126953125,
+          "x1": 426.6087646484375,
+          "y1": 327.126953125
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 3,
+        "text": "\u25cf",
+        "font": "ArialMT",
+        "font_size": 10.0,
+        "color": 0,
+        "position": {
+          "x0": 90.0,
+          "y0": 328.751953125,
+          "x1": 96.04000091552734,
+          "y1": 339.923828125
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 3,
+        "text": "Developed",
+        "font": "Calibri",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 108.0,
+          "y0": 329.5546875,
+          "x1": 155.84361267089844,
+          "y1": 340.5546875
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 3,
+        "text": " automated WIP tracking sheet",
+        "font": "Calibri-Bold",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 155.84361267089844,
+          "y0": 329.5546875,
+          "x1": 296.5205993652344,
+          "y1": 340.5546875
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 3,
+        "text": " utilizing",
+        "font": "Calibri",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 296.5205993652344,
+          "y0": 329.5546875,
+          "x1": 333.8453674316406,
+          "y1": 340.5546875
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 3,
+        "text": " VBA",
+        "font": "Calibri-Bold",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 333.8453674316406,
+          "y0": 329.5546875,
+          "x1": 355.5434265136719,
+          "y1": 340.5546875
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 3,
+        "text": " and multiple web queries to assist with",
+        "font": "Calibri",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 355.5434265136719,
+          "y0": 329.5546875,
+          "x1": 532.4004516601562,
+          "y1": 340.5546875
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 3,
+        "text": "workflow management",
+        "font": "Calibri-Bold",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 108.0,
+          "y0": 342.982421875,
+          "x1": 214.34254455566406,
+          "y1": 353.982421875
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 3,
+        "text": " on the Ship Dock",
+        "font": "Calibri",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 214.34254455566406,
+          "y0": 342.982421875,
+          "x1": 292.1108703613281,
+          "y1": 353.982421875
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 3,
+        "text": "\u25cf",
+        "font": "ArialMT",
+        "font_size": 10.0,
+        "color": 0,
+        "position": {
+          "x0": 90.0,
+          "y0": 355.607421875,
+          "x1": 96.04000091552734,
+          "y1": 366.779296875
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 3,
+        "text": "Pulled onto modified swing shift for 1.5-months to",
+        "font": "Calibri",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 108.0,
+          "y0": 356.41015625,
+          "x1": 332.5989990234375,
+          "y1": 367.41015625
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 3,
+        "text": " train all shifts on Arch Angel process",
+        "font": "Calibri-Bold",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 332.5989990234375,
+          "y0": 356.41015625,
+          "x1": 500.0719909667969,
+          "y1": 367.41015625
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 3,
+        "text": " and",
+        "font": "Calibri",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 500.0719909667969,
+          "y0": 356.41015625,
+          "x1": 519.3685913085938,
+          "y1": 367.41015625
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 3,
+        "text": "how to use automated WIP tracking sheet and ensure all dock crews were up to speed",
+        "font": "Calibri",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 108.0,
+          "y0": 369.837890625,
+          "x1": 492.00067138671875,
+          "y1": 380.837890625
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 3,
+        "text": "Education",
+        "font": "Calibri-Bold",
+        "font_size": 13.0,
+        "color": 0,
+        "position": {
+          "x0": 72.0,
+          "y0": 397.134765625,
+          "x1": 125.41911315917969,
+          "y1": 410.134765625
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 3,
+        "text": "Bachelor of Science in Industrial Engineering",
+        "font": "Calibri-Bold",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 72.0,
+          "y0": 412.5625,
+          "x1": 273.8978271484375,
+          "y1": 423.5625
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 3,
+        "text": "The University of Texas, Arlington, TX | 2012 \u2013 2015",
+        "font": "Calibri",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 72.0,
+          "y0": 425.990234375,
+          "x1": 301.55218505859375,
+          "y1": 436.990234375
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 3,
+        "text": "Certifications",
+        "font": "Calibri-Bold",
+        "font_size": 13.0,
+        "color": 0,
+        "position": {
+          "x0": 72.0,
+          "y0": 453.287109375,
+          "x1": 143.5444793701172,
+          "y1": 466.287109375
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 3,
+        "text": "\u25cf",
+        "font": "ArialMT",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 90.0,
+          "y0": 467.0068359375,
+          "x1": 96.64399719238281,
+          "y1": 479.2958984375
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 3,
+        "text": "Lean Green Belt Certification",
+        "font": "Calibri",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 108.0,
+          "y0": 468.71484375,
+          "x1": 236.31509399414062,
+          "y1": 479.71484375
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 3,
+        "text": "\u25cf",
+        "font": "ArialMT",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 90.0,
+          "y0": 480.4345703125,
+          "x1": 96.64399719238281,
+          "y1": 492.7236328125
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 3,
+        "text": "Lean Six Sigma Yellow Belt Certification",
+        "font": "Calibri",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 108.0,
+          "y0": 482.142578125,
+          "x1": 281.7701110839844,
+          "y1": 493.142578125
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 3,
+        "text": "\u25cf",
+        "font": "ArialMT",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 90.0,
+          "y0": 493.8623046875,
+          "x1": 96.64399719238281,
+          "y1": 506.1513671875
+        },
+        "is_bold": false,
+        "is_italic": false
+      },
+      {
+        "page": 3,
+        "text": "Certified AutoCAD Technician",
+        "font": "Calibri",
+        "font_size": 11.0,
+        "color": 0,
+        "position": {
+          "x0": 108.0,
+          "y0": 495.5703125,
+          "x1": 238.72984313964844,
+          "y1": 506.5703125
+        },
+        "is_bold": false,
+        "is_italic": false
+      }
+    ]
+  }
+}
